@@ -1,1 +1,1 @@
-# Python-Day_1
+Functions,import,indentations,objects
